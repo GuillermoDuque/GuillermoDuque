@@ -23,4 +23,4 @@ I’m open to contributing to open-source projects where I can:
 
 ## 📫 How to Reach Me
 - GitHub: [@GuillermoDuque](https://github.com/GuillermoDuque)  
-- LinkedIn: [Guillermo Duque Sánchez](https://www.linkedin.com/in/guillermo-duque-s%C3%A1nchez/)*  
+- LinkedIn: [Guillermo Duque Sánchez](https://www.linkedin.com/in/guillermo-duque-s%C3%A1nchez/)
