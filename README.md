@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @GuillermoDuque
-- 👀 I’m interested in learn software development
-- 💞️ I’m looking to collaborate on open-source project
+# 👋 Hi there, I'm Guillermo Duque
 
+🎯 Passionate software developer on a journey of continuous learning.  
+🌱 I write and organize my knowledge in [my Digital Garden](https://guillermoduque.github.io/digital-garden/).
 
-<!---
-GuillermoDuque/GuillermoDuque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💡 Interests
+- Backend development with Java, Kotlin, and Spring Boot  
+- Software architecture and clean code practices  
+- Contributing to open-source projects  
+- Distributed systems and artificial intelligence
+
+---
+
+## 🤝 Looking to Collaborate On
+I’m open to contributing to open-source projects where I can:
+- Improve my technical skills  
+- Deliver clean, maintainable code  
+- Learn from experienced developers  
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [@GuillermoDuque](https://github.com/GuillermoDuque)  
+- LinkedIn: [Guillermo Duque Sánchez](https://www.linkedin.com/in/guillermo-duque-s%C3%A1nchez/)*  
