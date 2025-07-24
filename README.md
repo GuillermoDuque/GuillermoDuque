@@ -23,8 +23,3 @@ I’m open to contributing to open-source projects where I can:
 
 ## How to Reach Me
 - LinkedIn: [Guillermo Duque Sánchez](https://www.linkedin.com/in/guillermo-duque-s%C3%A1nchez/)
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/GuillermoDuque/count.svg" alt="Visitor's Count" />
-</div>
